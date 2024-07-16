@@ -265,7 +265,8 @@
     "unist-util-visit": "^5.0.0",
     "vite": "^5.3.3",
     "vitest": "~1.2.2",
-    "vitest-canvas-mock": "^0.3.3"
+    "vitest-canvas-mock": "^0.3.3",
+    "@typescript-eslint/eslint-plugin": "^7.16.1"
   },
   "publishConfig": {
     "access": "public",
